@@ -17,6 +17,7 @@ Follow these steps to run the project on your local machine:
    npm install
 3. Start the Development Server:
    npm run dev
+
 The app will run at http://localhost:5173/ 🚀
 
 Built With
